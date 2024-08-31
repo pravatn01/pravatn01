@@ -3,7 +3,8 @@
 </h1>
 
 <h3 align="center">A passionate Data Analyst in training with a goal to become a Data Scientist.</h3>
-
+<br>
+<br>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJhM2dzNGRubGowNWE0aXV5ZTVnZXhmZHAxeHgxZGRud2R3MXJjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravatn01&label=Profile%20views&color=0e75b6&style=flat" alt="pravatn01" /> </p>
 
@@ -12,57 +13,32 @@
 - 💬 Ask me about **Python, Pandas, and data visualization.**
 - 📫 How to reach me **pravat.nagarkoti@gmail.com**
 - ⚡ Fun fact **I get excited when data starts to tell a story!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/pravat nagarkoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravat nagarkoti" height="30" width="40" /></a>
     <a href="https://kaggle.com/pravatnagarkoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pravatnagarkoti" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-    </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-    </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="40" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="40" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-    </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/jupyter/jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
-    </a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Power_BI_Logo.png" alt="Power BI" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_Logo_%282018%29.png" alt="Excel" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </a>
+        <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter Notebook" width="40" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="40" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="40" height="40"/>
+        <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="40" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="40" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="40" height="40"/>
 </div>
-
+<br>
+<br>
 <h2 align="center" style="color:#817be6;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
