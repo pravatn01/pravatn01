@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pravat+Nagarkoti!&color=817be6" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pravat+Nagarkoti!&color=4491f8" />
 </h1>
 
 <h3 align="center">A passionate Data Analyst in training with a goal to become a Data Scientist.</h3>
@@ -39,13 +39,14 @@
 </div>
 <br>
 <br>
-<h2 align="center" style="color:#817be6;">⚡ Stats ⚡</h2>
+<h2 align="center" style="color:#4491f8;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=pravatn01&count_private=true&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=817be6&fire=817be6&sideNums=817be6&currStreakNum=817be6&currStreakLabel=817be6&sideLabels=817be6&dates=FFFFFF" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pravatn01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=817be6&icon_color=817be6&text_color=FFFFFF" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=pravatn01&count_private=true&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4491f8&fire=4491f8&sideNums=4491f8&currStreakNum=4491f8&currStreakLabel=4491f8&sideLabels=4491f8&dates=FFFFFF" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pravatn01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=4491f8&icon_color=4491f8&text_color=FFFFFF" alt="readme stats" />
   <br/>
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=817be6&text_color=FFFFFF" alt="top langs" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=4491f8&text_color=FFFFFF" alt="top langs" />
 </div>
+
 
 
