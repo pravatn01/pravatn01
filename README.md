@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **data cleaning and visualization projects.**
 - 🌱 I’m currently learning **advanced data analytics techniques.**
 - 💬 Ask me about **Python, Pandas, and data visualization.**
-- 📫 How to reach me **[pravat.nagarkoti@gmail.com](mailto:pravat.nagarkoti@gmail.com)**
+- 📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pravat.nagarkoti@gmail.com" target="_blank"><b>pravat.nagarkoti@gmail.com</b></a>
 - ⚡ Fun fact **I get excited when data starts to tell a story!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
