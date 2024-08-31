@@ -23,9 +23,9 @@
     <a href="https://public.tableau.com/app/profile/pravat.nagarkoti/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
     </a>
-    <a href="mailto:pravat.nagarkoti@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
+<a href="mailto:pravat.nagarkoti@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </p>
 <br>
 <br>
