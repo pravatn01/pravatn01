@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on **data cleaning and visualization projects.**
 - 🌱 I’m currently learning **advanced data analytics techniques.**
 - 💬 Ask me about **Python, Pandas, and data visualization.**
+- 📫 How to reach me **pravat.nagarkoti@gmail.com**
 - ⚡ Fun fact **I get excited when data starts to tell a story!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,9 +24,6 @@
     <a href="https://public.tableau.com/app/profile/pravat.nagarkoti/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
     </a>
-<a href="mailto:pravat.nagarkoti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 </p>
 <br>
 <br>
