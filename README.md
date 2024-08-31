@@ -11,12 +11,15 @@
 - 🔭 I’m currently working on **data cleaning and visualization projects.**
 - 🌱 I’m currently learning **advanced data analytics techniques.**
 - 💬 Ask me about **Python, Pandas, and data visualization.**
-- 📫 How to reach me **pravat.nagarkoti@gmail.com**
+- 📫 How to reach me **[pravat.nagarkoti@gmail.com](mailto:pravat.nagarkoti@gmail.com)**
 - ⚡ Fun fact **I get excited when data starts to tell a story!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/pravat nagarkoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravat nagarkoti" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/pravat-nagarkoti-786177308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravat nagarkoti" height="30" width="40" /></a>
     <a href="https://kaggle.com/pravatnagarkoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pravatnagarkoti" height="30" width="40" /></a>
+        <a href="https://public.tableau.com/app/profile/pravat.nagarkoti/vizzes" target="blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Public" height="30" width="40" />
+    </a>
 </p>
 <br>
 <br>
