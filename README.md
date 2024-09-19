@@ -76,10 +76,10 @@
 <h2 align="center" style="color:#4491f8;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=pravatn01&count_private=true&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4491f8&fire=4491f8&sideNums=4491f8&currStreakNum=4491f8&currStreakLabel=4491f8&sideLabels=4491f8&dates=FFFFFF" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pravatn01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=4491f8&icon_color=4491f8&text_color=FFFFFF" alt="readme stats" />
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=pravatn01&count_private=true&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4491f8&fire=4491f8&sideNums=4491f8&currStreakNum=4491f8&currStreakLabel=4491f8&sideLabels=4491f8&dates=FFFFFF" alt="streak stats"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=pravatn01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=4491f8&icon_color=4491f8&text_color=FFFFFF" alt="readme stats" />
   <br/>
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=4491f8&text_color=FFFFFF" alt="top langs" />
+  <img width=360 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=4491f8&text_color=FFFFFF" alt="top langs" />
 </div>
 
 
