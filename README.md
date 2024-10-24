@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Pravat+Nagarkoti!&color=4491f8" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Pravat+Nagarkoti!&color=7e7fe0" />
 </h1>
 
 <h3 align="center">A passionate Data Analyst in training with a goal to become a Data Scientist.</h3>
@@ -73,14 +73,17 @@
 
 <br>
 <br>
-<h2 align="center" style="color:#4491f8;">⚡ Stats ⚡</h2>
+<h2 align="center" style="color:#7e7fe0;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=pravatn01&count_private=true&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4491f8&fire=4491f8&sideNums=4491f8&currStreakNum=4491f8&currStreakLabel=4491f8&sideLabels=4491f8&dates=FFFFFF" alt="streak stats"/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=pravatn01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=4491f8&icon_color=4491f8&text_color=FFFFFF" alt="readme stats" />
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=pravatn01&count_private=true&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=7e7fe0&fire=7e7fe0&sideNums=7e7fe0&currStreakNum=7e7fe0&currStreakLabel=7e7fe0&sideLabels=7e7fe0&dates=FFFFFF" alt="streak stats"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=pravatn01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=7e7fe0&icon_color=7e7fe0&text_color=FFFFFF" alt="readme stats" />
   <br/>
-  <img width=360 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=4491f8&text_color=FFFFFF" alt="top langs" />
+  <img width=360 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=7e7fe0&text_color=FFFFFF" alt="top langs" />
 </div>
 
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7e7fe0&height=100&section=footer"/>
+</p>
 
 
