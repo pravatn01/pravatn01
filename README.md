@@ -63,6 +63,9 @@
     <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="50" height="50"/>
     </a>
+        <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="50" height="50"/>
+    </a>
     <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="50" height="50"/>
     </a>
