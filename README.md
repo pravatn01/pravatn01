@@ -48,9 +48,9 @@
     <a href="https://en.wikipedia.org/wiki/Scikit-learn" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="70" height="50"/>
     </a>
-    <a href="https://en.wikipedia.org/wiki/Jupyter_Notebook" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter Notebook" width="60" height="50"/>
-    </a>
+<a href="https://en.wikipedia.org/wiki/Jupyter_Notebook" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="60" height="50"/>
+</a>
     <a href="https://en.wikipedia.org/wiki/Tableau_Software" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="50" height="50"/>
     </a>
