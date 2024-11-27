@@ -17,10 +17,10 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/pravat-nagarkoti-786177308/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+<!--     </a>
     <a href="https://kaggle.com/pravatnagarkoti" target="_blank">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-    </a>
+    </a> -->
     <a href="https://public.tableau.com/app/profile/pravat.nagarkoti/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
     </a>
