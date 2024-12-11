@@ -6,7 +6,10 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJhM2dzNGRubGowNWE0aXV5ZTVnZXhmZHAxeHgxZGRud2R3MXJjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravatn01&label=Profile%20views&color=0e75b6&style=flat" alt="pravatn01" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravatn01&label=Profile%20views&color=0e75b6&style=flat" alt="pravatn01" /> </p> -->
+<p align="left"> <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=pravatn01&icon=8&color=6" alt="Visitor Count" />
+</a></p>
 
 - 🔭 I’m currently working on **data cleaning and visualization projects.**
 - 🌱 I’m currently learning **advanced data analytics techniques.**
