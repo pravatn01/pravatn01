@@ -15,7 +15,6 @@
 - 🌱 Expanding knowledge in **machine learning and core math concepts like linear algebra, statistics, and calculus.**  
 - 💬 Ask me about **Python, Pandas, and data visualization.**
 - 📫 How to reach me **pravat.nagarkoti@gmail.com**
-- ⚡ Fun fact **I get excited when data starts to tell a story!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/pravat-nagarkoti-786177308/" target="_blank">
