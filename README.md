@@ -2,17 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Pravat+Nagarkoti!&color=7e7fe0" />
 </h1>
 
-<h3 align="center">A passionate Data Analyst in training with a goal to become a Data Scientist.</h3>
+<h3 align="center">A dedicated Data Scientist with a passion for AI and Machine Learning.</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJhM2dzNGRubGowNWE0aXV5ZTVnZXhmZHAxeHgxZGRud2R3MXJjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.webp">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravatn01&label=Profile%20views&color=0e75b6&style=flat" alt="pravatn01" /> </p> -->
-<p align="left"> <a href="https://visitcount.itsvg.in">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravatn01&label=Profile%20views&color=0e75b6&style=flat" alt="pravatn01" /> </p>
+<!-- <p align="left"> <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=pravatn01&icon=8&color=6" alt="Visitor Count" />
-</a></p>
+</a></p> -->
 
-- 🔭 I’m currently working on **data cleaning and visualization projects.**
-- 🌱 I’m currently learning **advanced data analytics techniques.**
+- 🔭 Currently working on **Python projects focused on data cleaning, analytics, and visualization.**  
+- 🌱 Expanding knowledge in **machine learning and core math concepts like linear algebra, statistics, and calculus.**  
 - 💬 Ask me about **Python, Pandas, and data visualization.**
 - 📫 How to reach me **pravat.nagarkoti@gmail.com**
 - ⚡ Fun fact **I get excited when data starts to tell a story!**
