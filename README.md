@@ -88,21 +88,15 @@
 </div> -->
 <h2 align="center" style="color:#7e7fe0;">⚡ Stats ⚡</h2>
 <br>
-<div align="center" style="background-color:#000000;">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none;">
-        <img width=400 src="https://github-readme-stats.vercel.app/api?username=pravatn01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=7e7fe0&icon_color=7e7fe0&text_color=FFFFFF&bg_color=000000" alt="readme stats" />
-      </td>
-      <td style="border: none;">
-        <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=7e7fe0&text_color=FFFFFF&bg_color=000000" alt="top langs" />
-      </td>
-    </tr>
-  </table>
+<div align="center" style="background-color:#000000; padding: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+    <div style="flex-shrink: 0; padding: 10px; box-sizing: border-box;">
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=pravatn01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=7e7fe0&icon_color=7e7fe0&text_color=FFFFFF&bg_color=000000" alt="readme stats" />
+    </div>
+    <div style="flex-shrink: 0; padding: 10px; box-sizing: border-box;">
+      <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=7e7fe0&text_color=FFFFFF&bg_color=000000" alt="top langs" />
+    </div>
+  </div>
 </div>
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7e7fe0&height=100&section=footer"/>
-</p>
 
 
