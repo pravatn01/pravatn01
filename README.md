@@ -96,7 +96,8 @@
     <div style="flex-shrink: 0; padding: 10px; box-sizing: border-box;">
       <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=7e7fe0&text_color=FFFFFF&bg_color=000000" alt="top langs" />
     </div>
-  </div>
-</div>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7e7fe0&height=100&section=footer"/>
+</p>
 
 
