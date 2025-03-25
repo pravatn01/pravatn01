@@ -11,11 +11,13 @@
     <img src="https://visitcount.itsvg.in/api?id=pravatn01&icon=8&color=6" alt="Visitor Count" />
 </a></p> -->
 
-- 🔭 Currently working on **Python projects focused on data cleaning, analytics, and visualization.**  
-- 🌱 Expanding knowledge in **machine learning and core math concepts like linear algebra, statistics, and calculus.**  
-- 💬 Ask me about **Python, Pandas, and data visualization.**
-- 📫 How to reach me **pravat.nagarkoti@gmail.com**
-<h3 align="left">Connect with me:</h3>
+- 🔭 Currently working on **deep learning** project with **CNNs** and **LSTMs** to address real-world problems.  
+- 🌱 Expanding knowledge in **ML** and core math concepts like **linear algebra**, **statistics**, and **calculus**.  
+- 💬 **Ask me about** **Pandas**, **EDA**, **data visualization**, and **machine learning**.  
+- 📫 How to reach me: **pravat.nagarkoti@gmail.com**
+
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/pravat-nagarkoti-786177308/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,59 +25,28 @@
     <a href="https://kaggle.com/pravatnagarkoti" target="_blank">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
     </a> -->
+        <a href="https://codebasics.io/portfolio/Pravat-Nagarkoti" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7e7fe0?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    </a>
     <a href="https://public.tableau.com/app/profile/pravat.nagarkoti/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
     </a>
 </p>
 <br>
 <br>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack</h2>
 <br/>
-<div align="center">
-    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Pandas_(software)" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="50" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/NumPy" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" width="50" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Matplotlib" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="50" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Seaborn_(software)" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" width="50" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Scikit-learn" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="70" height="50"/>
-    </a>
-<a href="https://en.wikipedia.org/wiki/Jupyter_Notebook" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="60" height="50"/>
-</a>
-    <a href="https://en.wikipedia.org/wiki/Tableau_Software" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="50" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Power_BI" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="50" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank">
-        <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="70" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="50" height="50"/>
-    </a>
-        <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="50" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="50" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50" height="50"/>
-    </a>
-</div>
 
+<div align="center">
+
+| Category              | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Python Ecosystem**  | <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Pandas_(software)" target="_blank"><img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/NumPy" target="_blank"><img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Matplotlib" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Seaborn_(software)" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Scikit-learn" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="40"/></a> <a href="https://en.wikipedia.org/wiki/FastAPI" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Jupyter_Notebook" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Streamlit" target="_blank"><img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="35" height="35"/></a> |
+| **Data Visualization** | <a href="https://en.wikipedia.org/wiki/Tableau_Software" target="_blank"><img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Power_BI" target="_blank"><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank"><img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="40" height="40"/></a> |
+| **Databases**         | <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="60" height="40"/></a> <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="40" height="40"/></a> |
+| **Version Control**   | <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="40" height="40"/></a> |
+
+</div>
 <br>
 <br>
 <!-- <h2 align="center" style="color:#7e7fe0;">⚡ Stats ⚡</h2>
@@ -86,7 +57,7 @@
   <br/>
   <img width=360 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravatn01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&title_color=7e7fe0&text_color=FFFFFF&bg_color=000000" alt="top langs" />
 </div> -->
-<h2 align="center" style="color:#7e7fe0;">⚡ Stats ⚡</h2>
+<h2 align="center" style="color:#7e7fe0;">📈 GitHub Stats</h2>
 <br>
 <div align="center" style="background-color:#000000; padding: 20px;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
