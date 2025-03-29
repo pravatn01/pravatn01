@@ -13,7 +13,7 @@
 
 - 🔭 Currently working on **deep learning** project with **CNNs** and **LSTMs** to address real-world problems.  
 - 🌱 Expanding knowledge in **ML** and core math concepts like **linear algebra**, **statistics**, and **calculus**.  
-- 💬 **Ask me about** **Pandas**, **EDA**, **data visualization**, and **machine learning**.  
+- 💬 Ask me about **Pandas**, **EDA**, **data visualization**, and **machine learning**.  
 - 📫 How to reach me: **pravat.nagarkoti@gmail.com**
 
 
